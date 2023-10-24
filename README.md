@@ -14,7 +14,9 @@ This project is a code refactor for the Horiseon marketing website which primari
 * A relevant title was added.
 
 ## Installation
-No installation is required to view the website in a web browser. The website is accessible through a URL link or you can download the project files and open index.html in a web browser of your choice.
+No installation is required to view the website in a web browser. The website is accessible through the deployed GitPage link below or you can download the project files and open index.html in a web browser of your choice.
+
+[Horiseon GitPage](https://mjsilva99.github.io/horiseon-marketing-website/)
 
 ## Usage
 Horiseon can be viewed in a deskptop web browser, however it is not yet optimised for smaller screens such as mobile devices or tablets. Horiseon is a simple, static webpage, but does allow users to navigate to different parts of the page using the working links in the navigation menu.
